@@ -7,8 +7,8 @@
 #### **Question 1:** Where do you enable Cloud Logging?  
 
 🟢 **Options:**  
-1. ⚪ Agent Settings > General  
-2. 🟢 **Agent Settings > Exports**  
+1. 🟢 **Agent Settings > General**
+2. ⚪ Agent Settings > Exports
 3. ⚪ Analytics > General  
 4. ⚪ Analytics > Exports  
 
