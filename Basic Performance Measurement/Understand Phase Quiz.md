@@ -5,8 +5,8 @@
 ✅ **Options:**  
 1. ❌ Flow analysis is a preventative tool that allows teams to understand the likelihood of a path to occur in production.  
 2. ❌ By reading the transcripts, you can understand the context about the conversation and already have an idea on why customers are doing that path.  
-3. ✅ By using flow analysis, you can see conversations that are going off the critical success path early.  
-4. ❌ **All of the above.**  
+3. ✅ **By using flow analysis, you can see conversations that are going off the critical success path early.**  
+4. ❌ All of the above.
 
 ---  
 
