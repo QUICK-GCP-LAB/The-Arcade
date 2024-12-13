@@ -61,7 +61,7 @@
 
 
 
-### 🌟 **Congrats on Completing the Skill Badges!**  
+### 🎉 **Congrats on Completing the Skill Badges!**  
 
 ##### *You’ve showcased remarkable determination and skill!*  
 
